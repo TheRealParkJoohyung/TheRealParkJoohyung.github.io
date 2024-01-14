@@ -23,21 +23,21 @@ categories:
       - title: "프로그래밍 언어"
         children: 
           - title: "파이썬"
-            url: /backend/language/python/
-        url: /backend/language/
+            url: categories/backend/language/python/
+        url: categories/backend/language/
       - title: "CS 지식"
         children:
           - title: "알고리즘"
-            url: /backend/cs/algorithm/
-        url: /backend/cs/
+            url: categories/backend/cs/algorithm/
+        url: categories/backend/cs/
       - title: "데이터 베이스"
-        url: /backend/db/
+        url: categories/backend/db/
       - title: "Git"
-        url: /backend/git/
+        url: categories/backend/git/
       - title: "프로젝트"
-        url: /backend/project/
+        url: categories/backend/project/
 
   - title: "프론트엔드"
     children:
       - title: "프로그래밍 언어"
-        url: /frontend/language/
+        url: categories/frontend/language/
