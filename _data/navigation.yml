@@ -36,8 +36,10 @@ categories:
         url: categories/backend/git/
       - title: "프로젝트"
         url: categories/backend/project/
+    url: categories/backend/
 
   - title: "프론트엔드"
     children:
       - title: "프로그래밍 언어"
         url: categories/frontend/language/
+    url: url: categories/frontend/
