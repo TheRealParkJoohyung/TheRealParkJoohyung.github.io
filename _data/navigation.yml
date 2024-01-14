@@ -26,6 +26,9 @@ categories:
             url: /backend/language/python/
         url: /backend/language/
       - title: "CS 지식"
+        children:
+          - title: "알고리즘"
+            url: /backend/cs/algorithm/
         url: /backend/cs/
       - title: "데이터 베이스"
         url: /backend/db/
